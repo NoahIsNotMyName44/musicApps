@@ -1,4 +1,4 @@
-Name,Monthly Active Users (in millions),Rating (out of 5),Subscription Cost (in USD),"	Genre","Popularity"
+Name,Monthly Active Users (in millions),Rating (out of 5),Subscription Cost (in USD),Genre,Popularity
 Spotify,345,4.8,9.99,Steaming,High
 Apple Music,100,4.6,9.99,Steaming,High
 Youtube Music,75,4.3,11.99,Steaming,Medium
@@ -6,4 +6,5 @@ Amazon Music,55,4.2,7.99,Steaming,Medium
 Tidal,10,4.1,19.99,Steaming,Low
 Deezer,16,4.4,9.99,Steaming,Low
 Soundcloud,100,4.2,9.99,Steaming,Medium
+
 
